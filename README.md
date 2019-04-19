@@ -4,7 +4,7 @@ you'll be presented with a single line expression.  your task is to break it int
 
 learning objectives
 * which operators exist in JS
-* operator precedence
+* reading this [operator precedence table](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 * breaking down long expressions (super helpful for debugging, reading & writing code)
 * statements vs. expressions
 
