@@ -123,7 +123,7 @@ learning objectives
   const expected = (b && typeof a) === 'string';
 
   const val_1 = typeof a;
-  const step_1 = val_1 === 'string' && b;
+  const step_1 = b && val_1 === 'string' ;
   console.assert(step_1 === expected, "step_1");
 
   const val_2 = b && val_1;
