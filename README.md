@@ -118,7 +118,7 @@ __learning objectives__
   console.assert(step_3 === expected, "step_3");
 }
 ```
-[short-circuiting - an advanced gotcha](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c)
+[short-circuiting - an advanced gotcha](https://github.com/janke-learning/expanding/blob/master/worked-short-circuiting.md)
 
 ### 4
 
